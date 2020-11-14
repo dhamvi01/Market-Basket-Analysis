@@ -6,9 +6,9 @@ We can use MBA to extract interesting association between products from the data
 
 Remember these 3 import MB:
 
-    - Support P(AB)
-    - Confidence P(B|A)
-    - Lift P(B|A)/P(B)
+    - Support      -> P(AB)
+    - Confidence   -> P(B|A)
+    - Lift         -> P(B|A)/P(B)
     
 1. Support is the percentage of transactions containing a particular combination of items relative to the total number of transactions in the database. The support for the combination A and B would be,
 P(AB) or P(A) for Individual A
