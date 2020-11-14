@@ -4,7 +4,7 @@ Market basket analysis scrutinizes the products customers tend to buy together, 
 
 We can use MBA to extract interesting association between products from the data. Hence its output consists of a series of product association rules: for example, if customers buy product A they also tend to buy product B. We will follow the three most popular criteria evaluating the quality or the strength of an association rule
 
-Remember these 3 import MB:
+## Remember these 3 import terms of Market basket analysis:
 
     - Support      -> P(AB)
     - Confidence   -> P(B|A)
